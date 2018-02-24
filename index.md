@@ -12,4 +12,4 @@ This project is currently in brainstorming phase but if you want to join the cor
   
 ### What does "dividita" mean?
 
-"Dividita" means "shared" in Esperanto!
+"Divided" or "shared" in Esperanto.
