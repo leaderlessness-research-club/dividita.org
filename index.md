@@ -1,8 +1,8 @@
-## Dividita: Responsibility. Shared.
+## Dividita: Enabling self-organization
 
-The goal of the Dividita project is to empower people to self-organize and share equal control over an organization.
+Dividita is an app empowering people to self-organize autonomous organizations.
 
-This project is currently in brainstorming phase but if you want to join the Slack team just [send us an email](mailto:lily.m.mayfield@gmail.com) and tell us why.
+This project is currently in its early stages but if you want to join the Slack team just [send us an email](mailto:lily.m.mayfield@gmail.com) and tell us why.
 
 ### Documents
 
