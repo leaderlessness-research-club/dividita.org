@@ -2,7 +2,16 @@
 
 Dividita is an app empowering people to self-organize autonomous organizations. It is currently in planning.
 
-The plans for the first release of Dividita is a Slack bot which enables a decision-making process which all users participate in, including a proposal-building process and proposal approval process.
+The plans for the first release of Dividita is project name "Cooperative Action," a Slack bot which enables a decision-making process which all users participate in, including a proposal-building process and proposal approval process.
+
+## Who is this for?
+
+  * Teams
+  * Small business
+  * Collectives
+  * Nonprofits
+  * Cooperatives
+  * Everyone
 
 ## Joining the team
 
