@@ -21,6 +21,12 @@ If you want to join the Slack team just [send us an email](mailto:lily.m.mayfiel
 
   * [Agenda for 2018-03-10: First Steps](dividita-agenda-2018-03-10.pdf)
   
+## Calendar
+
+You may need to send us an email to request access to the calendar below.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  
 ## What does "dividita" mean?
 
 "Divided" or "shared" in Esperanto.
