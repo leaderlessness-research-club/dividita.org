@@ -21,6 +21,7 @@ If you want to join the Slack team just [send us an email](mailto:lily.m.mayfiel
 
 ## Documents
 
+  * [Dividita: Past, Present, and Future (2018-03-18)](dividita-past-present-future-2018-03-18.pdf)
   * [Agenda for 2018-03-10: First Steps](dividita-agenda-2018-03-10.pdf)
   
 ## Calendar
