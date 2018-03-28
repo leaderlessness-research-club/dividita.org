@@ -1,10 +1,13 @@
 ## What is Dividita?
 
-Dividita is an app empowering people to self-organize autonomous organizations. It is currently in planning.
+The end goal is a system allowing collective groups to make decisions equally as a group, rather than using representatives, in order to run an organization. We target:
 
-The plans for the first release of Dividita is project name "Cooperative Action," a Slack bot which enables a decision-making process which all users participate in, including a proposal-building process and proposal approval process.
-
-Group decision-making.
+  * Teams
+  * Small business
+  * Collectives
+  * Nonprofits
+  * Cooperatives
+  * Everyone
 
 ## Upcoming event: Q2 Plans via Hangouts
 
@@ -15,15 +18,6 @@ Group decision-making.
 **When:** Saturday, March 31, 2018.
 
 **Where:** https://hangouts.google.com/hangouts/_/bbkjobzwmbhmbot4lzj7s66cv4e 
-
-## Who is this for?
-
-  * Teams
-  * Small business
-  * Collectives
-  * Nonprofits
-  * Cooperatives
-  * Everyone
 
 ## Joining the team
 
