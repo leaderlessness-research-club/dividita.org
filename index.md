@@ -9,7 +9,11 @@ The end goal is a system allowing collective groups to make decisions equally as
   * Cooperatives
   * Everyone
 
-## Upcoming event: Q2 Plans PART 2 via Hangouts
+## Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Upcoming event: Q2 Plans PART 2 via Hangouts
 
 **What:** Dividita Q2 Plans PART 2 Meeting via Hangouts
 
