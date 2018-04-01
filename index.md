@@ -23,9 +23,11 @@ The end goal is a system allowing collective groups to make decisions equally as
 
 **Where:** https://hangouts.google.com/hangouts/_/xmwbm2ivfjcrzdnzbxoh4b3xcie
 
-## Joining the team
+## Contact us
 
-If you want to join the Slack team just [send us an email](mailto:lily.m.mayfield@gmail.com) and tell us why. You'll then get access to our calendar, Slack, Facebook group, and more!
+Interested in the project? Have questions? Comments?
+
+[info@dividita.org](mailto:info@dividita.org)
 
 ## Documents
 
