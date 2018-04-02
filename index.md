@@ -33,7 +33,6 @@ Interested in the project? Have questions? Comments?
 
   * [Q2 Action Plan after 2018-03-31 meeting](dividita-q2-action-plan-2018-03-31.pdf)
   * [Agenda for 2018-03-31](dividita-meeting-agenda-2018-03-31.pdf)
-  * [Dividita: Past, Present, and Future (2018-03-18)](dividita-past-present-future-2018-03-18.pdf)
   * [Agenda for 2018-03-10: First Steps](dividita-agenda-2018-03-10.pdf)
   
 ## Newsletter
