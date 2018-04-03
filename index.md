@@ -68,11 +68,17 @@ Interested in the project? Have questions? Comments?
 
 Here's a shareable link which allows people to signup for the newsletter: [http://eepurl.com/dp3DVP](http://eepurl.com/dp3DVP)
 
+The bookclub book of the month is announced in these newsletters too!
+
 ### Past newsletters
 
 This archive tends to lag behind by a bit so please subscribe to get the latest info:
 
   * [What we've been up to (2018-04-02)](https://mailchi.mp/307cc4642b24/what-weve-been-up-to)
+  
+### Books of the Month
+
+  * April 2018: [Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to Widespread Agreement](http://a.co/6HjRJXr)
   
 ## What does "dividita" mean?
 
