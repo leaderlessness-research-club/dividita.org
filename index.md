@@ -9,6 +9,8 @@ The end goal is a system allowing collective groups to make decisions equally as
   * Cooperatives
   * Everyone
 
+"Dividita is software which will let us have an organization without heirarchy."
+
 ## Calendar
 
 This is the calendar for all events, including the book club.
@@ -72,11 +74,11 @@ This archive tends to lag behind by a bit so please subscribe to get the latest 
   
 ## Book Club
 
-At dividita.org we’re going to automate consensus, while maintaining inclusivity and efficiency, so we’re reading up! 📖 🆙‬
+At Dividita we’re going to automate consensus, while maintaining inclusivity and efficiency, so we’re reading up! 📖 🆙‬
 
 ‪Join us as we read and discuss books on concensus and decision making in general!‬
 
-‪Subscribe to Dividita Book Club: eepurl.com/dp_NOf 📚 ‬
+‪Subscribe to Dividita Book Club: [eepurl.com/dp_NOf](eepurl.com/dp_NOf) 📚 ‬
 
 Book club email: [book.club@dividita.org](mailto:book.club@dividita.org)
 
@@ -111,13 +113,11 @@ Check the calendar for book discussions which take place on Google Hangouts.
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-http://eepurl.com/dp_NOf
-
 ### Past book club newsletters
 
-...
+None yet!
 
-### Past book club reads
+### Book club reads
 
   * April 2018: [Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to Widespread Agreement](http://a.co/6HjRJXr)
   
