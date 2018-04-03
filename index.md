@@ -13,16 +13,6 @@ The end goal is a system allowing collective groups to make decisions equally as
 
 <iframe src="https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-### Upcoming event: Q2 Plans PART 2 via Hangouts
-
-**What:** Dividita Q2 Plans PART 2 Meeting via Hangouts
-
-**Invited:** General public welcome!
-
-**When:** Saturday, April 7, 2018 @ 1pm US/Central.
-
-**Where:** https://hangouts.google.com/hangouts/_/xmwbm2ivfjcrzdnzbxoh4b3xcie
-
 ## Contact us
 
 Interested in the project? Have questions? Comments?
