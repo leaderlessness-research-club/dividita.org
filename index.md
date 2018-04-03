@@ -76,7 +76,7 @@ This archive tends to lag behind by a bit so please subscribe to get the latest 
 
   * [What we've been up to (2018-04-02)](https://mailchi.mp/307cc4642b24/what-weve-been-up-to)
   
-### Books of the Month
+## Books of the Month
 
   * April 2018: [Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to Widespread Agreement](http://a.co/6HjRJXr)
   
