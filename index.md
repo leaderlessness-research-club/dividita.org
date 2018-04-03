@@ -41,7 +41,7 @@ Interested in the project? Have questions? Comments?
 <div id="mc_embed_signup">
 <form action="https://dividita.us12.list-manage.com/subscribe/post?u=76c3ed54b2f6ef7d68864563b&amp;id=d77eb39d13" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to our general newsletter</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -74,6 +74,8 @@ This archive tends to lag behind by a bit so please subscribe to get the latest 
 
 Book club email: [book.club@dividita.org](mailto:book.club@dividita.org)
 
+Check the calendar for book discussions which take place on Google Hangouts.
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -84,7 +86,7 @@ Book club email: [book.club@dividita.org](mailto:book.club@dividita.org)
 <div id="mc_embed_signup">
 <form action="https://dividita.us12.list-manage.com/subscribe/post?u=76c3ed54b2f6ef7d68864563b&amp;id=22efa0002a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to our book club!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
