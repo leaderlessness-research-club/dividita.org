@@ -72,6 +72,12 @@ This archive tends to lag behind by a bit so please subscribe to get the latest 
   
 ## Book Club
 
+At dividita.org we’re going to automate consensus, while maintaining inclusivity and efficiency, so we’re reading up! 📖 🆙‬
+
+‪Join us as we read and discuss books on concensus and decision making in general!‬
+
+‪Subscribe to Dividita Book Club: eepurl.com/dp_NOf 📚 ‬
+
 Book club email: [book.club@dividita.org](mailto:book.club@dividita.org)
 
 Check the calendar for book discussions which take place on Google Hangouts.
