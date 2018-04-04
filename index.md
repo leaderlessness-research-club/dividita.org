@@ -19,6 +19,8 @@ This is the calendar for all events, including the book club.
 
 If you click "details" for an event you can see the Hangouts link if there is a video conference.
 
+[Calendar Permalink](https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago)
+
 ## Contact us
 
 Interested in the project? Have questions? Comments?
