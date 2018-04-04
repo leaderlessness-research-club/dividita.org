@@ -33,6 +33,11 @@ Interested in the project? Have questions? Comments?
   
 ## Newsletter
 
+  * News/announcements
+  * Reports, documents
+  * Links to upcoming public events on Google Hangouts
+  * Learn more about us and our vision!
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -83,6 +88,8 @@ At Dividita we’re going to automate consensus, while maintaining inclusivity a
 Book club email: [book.club@dividita.org](mailto:book.club@dividita.org)
 
 Check the calendar for book discussions which take place on Google Hangouts.
+
+We hold discussion via Google Hangouts; subscribe and you'll get the link to the hangout! Also available in our calendar. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
