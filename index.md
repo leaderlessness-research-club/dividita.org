@@ -1,6 +1,8 @@
 ## What is Dividita?
 
-The end goal is a system allowing collective groups to make decisions equally as a group, rather than using representatives, in order to run an organization. We target:
+The end goal is a system allowing collective groups to make decisions equally as a group, rather than using representatives or any heirarchy, in order to run an organization.
+
+We target:
 
   * Teams
   * Small business
@@ -8,8 +10,6 @@ The end goal is a system allowing collective groups to make decisions equally as
   * Nonprofits
   * Cooperatives
   * Everyone
-
-"Dividita is software which will let us have an organization without heirarchy."
 
 ## Resources
 
