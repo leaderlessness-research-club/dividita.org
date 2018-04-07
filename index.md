@@ -28,7 +28,7 @@ Interested in the project? Have questions? Comments?
 ## Documents
 
   * [Q2 Action Plan after 2018-04-07 meeting](dividita-q2-action-plan-2018-04-07.pdf)
-  * [Agenda for 2018-04-07](dividita-meeting-agenda-2018-04-07.pdf)
+  * [Agenda for 2018-04-07](dividita-agenda-2018-04-07.pdf)
   * [Q2 Action Plan after 2018-03-31 meeting](dividita-q2-action-plan-2018-03-31.pdf)
   * [Agenda for 2018-03-31](dividita-meeting-agenda-2018-03-31.pdf)
   * [Agenda for 2018-03-10: First Steps](dividita-agenda-2018-03-10.pdf)
