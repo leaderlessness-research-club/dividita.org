@@ -13,8 +13,7 @@ We target:
 
 ## Resources
 
-  * [Dividita Book Club](https://mailchi.mp/0bca862bc6f8/dividita-book-club)
-  * [TSOLO: The Study of Leaderless Organization](https://dividita.github.io/tsolo/)
+  * [TSOLO: The Study of Leaderless Organization](https://dividita.github.io/tsolo/) - Has a book club! This group does research for Dividita.
   * [Dividita Calendar](https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago) NOTE: If you click "details" for an event you can see the Hangouts link if there is a video conference.
   * [Dividita Newsletter](https://mailchi.mp/7adcd5519119/0e1tjm664v) we report our progress to this mailing list!
 
