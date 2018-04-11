@@ -16,9 +16,6 @@ We target:
   * [LRC: Leaderlessness Research Club](https://dividita.github.io/lrc/): This Dividita club does research for Dividita and cooperates with the general public to further the practicality and effectiveness of leaderless organization
   * [Dividita Calendar](https://calendar.google.com/calendar/embed?src=sjrb02r1648up8r6hvcuagc88k%40group.calendar.google.com&ctz=America%2FChicago) NOTE: If you click "details" for an event you can see the Hangouts link if there is a video conference.
   * [Dividita Newsletter](https://mailchi.mp/7adcd5519119/0e1tjm664v) we report our progress to this mailing list!
-
-## Contact, discuss
-
   * [Dividita Discord server](https://discord.gg/JxAuPmv)
   * [info@dividita.org](mailto:info@dividita.org)
   * [@dividita on Twitter](https://twitter.com/dividita)
