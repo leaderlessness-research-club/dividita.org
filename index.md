@@ -20,6 +20,7 @@ We target:
   * [info@dividita.org](mailto:info@dividita.org)
   * [@dividita on Twitter](https://twitter.com/dividita)
   * [Dividita Facebook Group](https://www.facebook.com/groups/dividita/)
+  * [Dividita Trello Team](https://trello.com/dividita)
 
 ## Documents
 
